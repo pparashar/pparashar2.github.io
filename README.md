@@ -43,6 +43,7 @@
 ## AI and Machine Learning
 
 ### Tutorials
+1. [THE Machine Learning Course](https://www.coursera.org/learn/machine-learning)
 1. [RNN Tutorial](https://github.com/silicon-valley-data-science/RNN-Tutorial)
 2. [Machine Learning in Python](https://www.springboard.com/learning-paths/machine-learning-python/)
 3. [Stanford Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) | <http://deeplearning.stanford.edu/tutorial/>
@@ -55,6 +56,8 @@
 7. [tflearn - to learn Tensorflow](http://tflearn.org/)
 7. [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) [todo - to explode]
 7. [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) [todo - to explode]
+7. [Intelligence and Learning- introduction videos](https://www.youtube.com/user/shiffman)
+
 
 
 ### NLP
