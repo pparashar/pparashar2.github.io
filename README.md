@@ -43,6 +43,7 @@
 ## AI and Machine Learning
 
 ### Tutorials
+1. [a16z AI Playbook](http://aiplaybook.a16z.com/) 
 1. [THE Machine Learning Course](https://www.coursera.org/learn/machine-learning)
 1. [RNN Tutorial](https://github.com/silicon-valley-data-science/RNN-Tutorial)
 2. [Machine Learning in Python](https://www.springboard.com/learning-paths/machine-learning-python/)
