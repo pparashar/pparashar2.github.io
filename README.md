@@ -66,7 +66,8 @@
 1. [Stanford Core NLP](https://stanfordnlp.github.io/CoreNLP/)
 1. [CMU Sphinx for Speech to Text](http://cmusphinx.sourceforge.net/wiki/tutorialoverview)
 
-
+### Useful resources
+1. [Open AI](https://openai.com/)
 
 
 ### Videos
