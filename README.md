@@ -69,6 +69,18 @@
 ### Useful resources
 1. [Open AI](https://openai.com/)
 
+### Recommendation
+1. [Netflix 3rd](http://sifter.org/~simon/journal/20061211.html)
+1. 
+#### Papers
+1. [Learning Collaborative Information Filters](http://www.aaai.org/Papers/Workshops/1998/WS-98-08/WS98-08-005.pdf)
+1. [Collaborative Filtering for Implicit Feedback Datasets](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=34AEEE06F0C2428083376C26C71D7CFF?doi=10.1.1.167.5120&rep=rep1&type=pdf)
+1. [Sparse non-negative matrix factorizations via alternating non-negativity-constrained least squares for microarray data analysis](https://academic.oup.com/bioinformatics/article/23/12/1495/225472/Sparse-non-negative-matrix-factorizations-via)
+1. [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/pdf/1205.2618.pdf)
+1. [Factorization Machines](http://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
+1. [Restricted Boltzmann Machines for Collaborative Filtering](http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf)
+
+
 
 ### Videos
 1. [Videos to Learn Machine Learning and Deep Learning](https://medium.com/@MatthiasNannt/videos-to-learn-about-ai-machine-learning-deep-learning-fd6a536a8abd)
