@@ -25,6 +25,9 @@
 4. [Rocksdb](https://github.com/facebook/rocksdb/)
 5. [LevelDB](https://github.com/google/leveldb)
 
+### Programming
+1. [List of Projects one can try while learning programming](https://github.com/karan/Projects)
+
 ## Mathematics
 1. [Immersive Linear Algebra](http://immersivemath.com/ila/)
 1. [Linear Algebra Video Lectures by MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) video
@@ -73,6 +76,7 @@
 1. [Netflix 3rd](http://sifter.org/~simon/journal/20061211.html)
 1. 
 #### Papers
+1. [Foundations of Deep Learning](https://github.com/pauli-space/foundations_for_deep_learning)
 1. [Learning Collaborative Information Filters](http://www.aaai.org/Papers/Workshops/1998/WS-98-08/WS98-08-005.pdf)
 1. [Collaborative Filtering for Implicit Feedback Datasets](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=34AEEE06F0C2428083376C26C71D7CFF?doi=10.1.1.167.5120&rep=rep1&type=pdf)
 1. [Sparse non-negative matrix factorizations via alternating non-negativity-constrained least squares for microarray data analysis](https://academic.oup.com/bioinformatics/article/23/12/1495/225472/Sparse-non-negative-matrix-factorizations-via)
@@ -116,3 +120,4 @@
 --------------------------------
 # Other
 1. [National Digital Library Kolkala - Digitized Indian Books](https://ndl.iitkgp.ac.in)
+1. [Find Lectures](https://www.findlectures.com/)
