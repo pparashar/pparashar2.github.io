@@ -77,6 +77,7 @@
 
 ### Useful resources
 1. [Open AI](https://openai.com/)
+1. [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
 
 ### Recommendation
 1. [Netflix 3rd](http://sifter.org/~simon/journal/20061211.html)
