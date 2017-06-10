@@ -31,6 +31,11 @@
 ## Mathematics
 1. [Immersive Linear Algebra](http://immersivemath.com/ila/)
 1. [Linear Algebra Video Lectures by MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) video
+1. [MIT classes n notes](http://math.mit.edu/academics/classes.php?term=2017SP&show=subjects)
+1. [Maths for computer sc](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+1. [Structure of computer programs book](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
+1. [Introduction to functional analysis](http://www1.maths.leeds.ac.uk/~kisilv/courses/math3263m.html)
+1. [Real Analysis Class](https://www.math.hmc.edu/~su/math131/)
 
 
 
@@ -41,6 +46,7 @@
 
 ## Statistics and Probability
 1. [Probability Course - book](http://www.math.uah.edu/stat/index.html)
+1. [Elements of statistical learning book](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 2. [Notes from Course on Probablistic Graphical Models](https://ermongroup.github.io/cs228-notes/)
 
 ## AI and Machine Learning
@@ -50,7 +56,7 @@
 1. [THE Machine Learning Course](https://www.coursera.org/learn/machine-learning)
 1. [RNN Tutorial](https://github.com/silicon-valley-data-science/RNN-Tutorial)
 2. [Machine Learning in Python](https://www.springboard.com/learning-paths/machine-learning-python/)
-3. [Stanford Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) | <http://deeplearning.stanford.edu/tutorial/>
+3. [Stanford Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/) | [http://deeplearning.stanford.edu/tutorial/]
 4. [Python Sciekit](http://scikit-learn.org/)
 5. [Getting started with TensorFlow](https://www.tensorflow.org/get_started)
 6. [Deep Learning Book - MIT Press](http://www.deeplearningbook.org/)
@@ -121,3 +127,4 @@
 # Other
 1. [National Digital Library Kolkala - Digitized Indian Books](https://ndl.iitkgp.ac.in)
 1. [Find Lectures](https://www.findlectures.com/)
+1. [Biggest academic ebook library](http://gen.lib.rus.ec/)
