@@ -69,6 +69,10 @@
 7. [Intelligence and Learning- introduction videos](https://www.youtube.com/user/shiffman)
 
 
+### Books and Foundation
+1. [Understanding Machine Learning from Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
+1. [Foundations of Data Science Book](https://www.cs.cornell.edu/jeh/book.pdf)
+
 
 ### NLP
 1. [Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP/blob/master/README.md#deep-learning-for-nlp-resources)
