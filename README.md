@@ -46,7 +46,8 @@
 
 ## Statistics and Probability
 1. [Probability Course - book](http://www.math.uah.edu/stat/index.html)
-1. [Elements of statistical learning book](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+1. [Elements of statistical learning book](http://statweb.stanford.edu/~tibs/ElemStatLearn/) | [here](https://web.stanford.edu/~hastie/ElemStatLearn/)
+1. [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 2. [Notes from Course on Probablistic Graphical Models](https://ermongroup.github.io/cs228-notes/)
 
 ## AI and Machine Learning
@@ -60,6 +61,7 @@
 4. [Python Sciekit](http://scikit-learn.org/)
 5. [Getting started with TensorFlow](https://www.tensorflow.org/get_started)
 6. [Deep Learning Book - MIT Press](http://www.deeplearningbook.org/)
+1. [Neural Networks and Deep Learning Book](http://neuralnetworksanddeeplearning.com/)
 7. [Practical Deep Learning for Coders Course](http://course.fast.ai/)
 7. [Deep Learning Comprehensive Course by Google](https://www.udacity.com/course/deep-learning--ud730)
 7. [Learn TensorFlow and Deep Learning without PhD](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
